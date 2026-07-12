@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
