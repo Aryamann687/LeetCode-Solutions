@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
