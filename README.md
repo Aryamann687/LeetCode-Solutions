@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0073-set-matrix-zeroes](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
