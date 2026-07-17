@@ -11,7 +11,7 @@ public:
    }
    else {
     mp1[s[i]]=t[i];
-   }
+   } 
       if(mp2.find(t[i])!=mp2.end()){
     if(mp2[t[i]]!=s[i]){
         return false;
