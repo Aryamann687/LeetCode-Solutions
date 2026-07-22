@@ -24,11 +24,13 @@ public:
         int count=k-n+1;
         if(count==1) return head->next;
         temp=head;
+        if(head->next == nullptr)
+    return nullptr;
      for(int i=1;i<count-1;i++){
         temp=temp->next;
      }
         temp->next=temp->next->next;
-        
+
         return head;
 
 
