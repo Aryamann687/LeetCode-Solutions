@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
