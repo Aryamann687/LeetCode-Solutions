@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Array
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
