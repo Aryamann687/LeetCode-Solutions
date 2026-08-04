@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
