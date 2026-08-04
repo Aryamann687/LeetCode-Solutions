@@ -12,7 +12,7 @@ public:
                 maxLength=max(maxLength,i-left+1);
             }
             else{
-                left=freq[s[i]]+1;
+                left=max(left,freq[s[i]]+1);
                 freq[s[i]]=i;
             }
 
