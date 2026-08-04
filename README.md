@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1406-stone-game-iii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -341,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
