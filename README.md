@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0055-jump-game) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
