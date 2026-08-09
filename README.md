@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
