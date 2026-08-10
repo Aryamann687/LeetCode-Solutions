@@ -4,7 +4,7 @@ public:
         string ans;
 
      int depth=0;
-     for(int i=0;i<s.length();i++){
+     for(int i=0;i<s.size();i++){
         if(s[i]=='('){
         if(depth>0){
             ans+='(';
