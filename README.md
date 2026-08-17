@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Union-Find
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
 |  |
