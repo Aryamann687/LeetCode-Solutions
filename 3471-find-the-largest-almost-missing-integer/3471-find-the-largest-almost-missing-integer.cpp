@@ -1,15 +1,31 @@
 class Solution {
 public:
     int largestInteger(vector<int>& A, int k) {
-        int f[51] = {0};
-        for (auto& x : A)
-            f[x]++;
+        int n=A.size();
+        unordered_map<int,int> freq;
+        for(int x:A){
+            freq[x]++;
+        }
+        if(k==n) return *max_element(A.begin(),A.end());
+       
+       if(k==1){
+        int ans=-1;
+        for(int x:A){
+        if(freq[x]==1){
+            ans=max(ans,x);
 
-        int res = -1, n = A.size();
-        for (int i = 0; i < n; i++)
-            if (k == n || (f[A[i]]==1 && (k==1||!i||i==n-1)))
-                res = max(res, A[i]);
-
-        return res;
+        }
+       }
+       return ans;
+       }
+       int ans=-1;
+       if(freq[A[0]]==1){
+        ans= max(ans,A[0]);
+       }
+       if(freq[A[n-1]]==1){
+        ans=max(ans,A[n-1]);
+       }
+       
+     return ans;
     }
 };
