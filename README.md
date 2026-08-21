@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 ## Number Theory
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
