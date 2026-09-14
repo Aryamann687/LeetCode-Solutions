@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
