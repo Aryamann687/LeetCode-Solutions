@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1096-brace-expansion-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [1096-brace-expansion-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
 |  |
@@ -628,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1096-brace-expansion-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
