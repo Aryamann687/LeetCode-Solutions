@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
