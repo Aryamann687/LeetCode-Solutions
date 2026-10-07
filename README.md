@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting Sort
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Aryamann687/LeetCode-Solutions/tree/master/0733-flood-fill) |
